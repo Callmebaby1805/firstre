@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
+  <w:body>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:pStyle w:val="Title"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+        </w:rPr>
+        <w:t>State of Energy and Climate in India</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:pStyle w:val="Subtitle"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Kaushik Deb and </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>Suyash</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>Nandgaonkar</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">India is the world's fifth largest economy, and on track to becoming the third largest within this decade. Its per-capita income however still lags the emerging-market-and-developing country average by roughly 50 percent.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="1"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> The government has ambitious development plans, and has announced a target of </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Viksit</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Bharat</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, that is a developed economy status by 2047.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="2"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> To achieve this status of High-Income Country</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">(HIC)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="3"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> by 2047, the per capita Gross Domestic Product (GDP) growth rate would have to be at 6.4 percent per annum</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="4"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, more than a third faster that 4.7 percent achieved from 2014 to 2023.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="5"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">This rapid economic growth will lead to an increase in energy demand. India's per capita primary energy consumption was just 35 percent of the global average in 2023. An increase in electricity consumption to match the levels of upper-middle-income countries would require an increase in electricity generation capacity by 2.8 times just in 2023.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="6"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> In its World Energy Outlook (WEO), the International Energy Agency (IEA) projects that India's energy demand according to its stated policies will be 1.74 times larger in 2050 compared to 2023 with a corresponding 61 percent increase in Greenhouse Gas (GHG) emissions.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="7"/>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">This creates a fundamental challenge: India's development needs will drive a rise in energy consumption and emissions, making sustainable growth a critical challenge.  While on one hand India needs to expand its energy consumption to sustain economic growth, doing so risks increasing global emissions significantly. With its large population and ambitious prosperity targets, India faces a unique dilemma in its development progression.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>The emissions challenge</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00645530">
+      <w:pPr>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">India is already a very climate-vulnerable country having consistently recorded some of the hottest wet bulb temperatures in the world. Increasingly hotter summers every passing year have had health impacts, with 155,936 deaths attributable to high temperatures in the country in </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">2021.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="8"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">A temperature increase of 1⁰C causes labour productivity loss by 2 percent in India manufacturing,</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="9"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> leading to the necessity of climate control and adaptation increasing energy requirements. All in all, the temperature rise under a carbon-intensive scenario could lead to a decline of 2.8 percent in household consumption by 2050, and a loss of 9.8 percent of GDP per capita in the most severe hotspots.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="10"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="003C70B2" w:rsidRDefault="003C70B2" w:rsidP="003C70B2">
+      <w:pPr>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:proofErr w:type="spellEnd"/>
+      <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+      <w:bookmarkEnd w:id="0"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">At the same time, as </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">the world's third-largest energy consumer and emitter of GHG, the country's energy and emissions trajectory will have global ramifications. Global fossil fuel CO2 emissions show no signs of abating with 37.4 GT being emitted in 2024. Since industrialization began in 1850, cumulative global CO₂ emissions have reached 2,607 GtCO₂. As a result, 94 percent of the carbon budget needed to stay within the 1.5°C warming limit has already been used.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="11"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">The European Union (EU) and the United States (US) bear the responsibility for 32 percent of these emissions and China accounts for another 11 percent.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="FootnoteReference"/>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:footnoteReference w:id="12"/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+        </w:rPr>
+        <w:t xml:space="preserve">It is only now that the EU and the US have registered decreases and likely peaked fossil fuel emissions. China is also likely to only marginally increase its emissions over the next few years before peaking.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00BA6A98" w:rsidRDefault="00BA6A98"/>
+    <w:sectPr w:rsidR="00BA6A98">
+      <w:headerReference w:type="default" r:id="rId8"/>
+      <w:headerReference w:type="first" r:id="rId9"/>
+      <w:headerReference w:type="even" r:id="rId10"/>
+      <w:footerReference w:type="default" r:id="rId11"/>
+      <w:footerReference w:type="first" r:id="rId12"/>
+      <w:footerReference w:type="even" r:id="rId13"/>
+      <w:pgSz w:w="12240" w:h="15840"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
